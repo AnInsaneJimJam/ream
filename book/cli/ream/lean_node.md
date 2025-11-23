@@ -14,7 +14,7 @@ Options:
       --bootnodes <BOOTNODES>
           Bootnodes configuration: Use 'default' for network defaults, 'none' to disable, '/path/to/nodes.yaml' for a YAML file with ENRs, or comma-delimited base64-encoded ENRs [default: default]
       --validator-registry-path <VALIDATOR_REGISTRY_PATH>
-          The path to the validator registry
+          The path to the validator registry file
       --node-id <NODE_ID>
           Node identifier for validator registry (e.g., 'ream_0', 'zeam_0') [default: ream_0]
       --private-key-path <PRIVATE_KEY_PATH>
